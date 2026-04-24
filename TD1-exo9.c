@@ -33,7 +33,7 @@ void compter(int k)
 
 int main()
 {
-	int i,n;
+	int n;
 	n=entrez(n);
 	compter(n);
 	return 0;
